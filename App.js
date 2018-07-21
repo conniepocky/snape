@@ -14,6 +14,8 @@ const AppText = props => {
 //Button
 //  <Button title="Click me!" onPress={this._handlePress}/>
 
+//Testing Git :)
+
 export default class App extends React.Component {
   render() {
     return (
